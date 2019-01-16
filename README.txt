@@ -1,9 +1,8 @@
-You MUST include a readme file.
-In your readme file you will have:
 
-1.	File list – also describe an set up that is required (e.g. all the files need to be in the same directory)
+
+1.	File list â€“ also describe an set up that is required (e.g. all the files need to be in the same directory)
 2.	How to compile and run code
-a.	If there are command line arguments – how do you pass them
+a.	If there are command line arguments â€“ how do you pass them
 3.	Design decisions  you made
 4.	Issues that you encountered
 
@@ -20,4 +19,4 @@ UPDATED!
 3. I know that i didn't seperate WAIT, PICK_UP etc into seperate methods BUT i don't think it's that messy? 
 	I think its pretty easy to follow along.
 
-4.I think it all works??? I forgot to take off the list before putting on the queue and checking the elevator size while picking people up.
+4.I think it all works???
